@@ -11,6 +11,7 @@ Tog även skärmdump och lagrade den enligt beskrivning.
 Texten i rapporten
 Infogade bilden i rapporten
 
+**testar pushar**
 ![](screenshot1.png)
 
 Läs gärna:
